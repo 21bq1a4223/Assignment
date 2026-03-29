@@ -6,7 +6,7 @@ This project covers core NLP concepts from preprocessing to machine learning, in
 
 
 ->Text Preprocessing (tokenization, stopwords removal, etc.)
-->Feature Engineering (BoW, TF-IDF)
+->Feature Engineering (TF-IDF)
 ->Cosine Similarity (between 3 sentences)
 -> Text Classification (Supervised Learning)
 ->Text Clustering (Unsupervised Learning)
